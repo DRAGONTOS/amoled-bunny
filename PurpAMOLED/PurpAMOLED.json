@@ -3,8 +3,8 @@
     "description": "AMOLED version of PurpDark",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "@DRAGONTOS",
+            "id": "292388306832982017"
         }
     ],
     "semanticColors": {
@@ -117,5 +117,16 @@
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
     },
-    "spec": 2
+      "spec": 2,
+      "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/DRAGONTOS/amoled-bunny/main/PurpAMOLED/background.jpg",
+      "alpha": 0.9,
+      "color": "#292929"
+  
+    },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
